@@ -9,8 +9,8 @@ Three key differences between June and Decemeber summary statistics
 * December standard deviation is higher than June which indicates the data is spread out around the mean.
 * Summary statistics for the months of June are warmer than December
 
-* June Summary Statistics                                           * December Summary Statistics
-<img width="135" alt="June Temps" src="https://user-images.githubusercontent.com/80358062/119173438-e2b87980-ba2c-11eb-9b2f-d3c87d5b7d06.png"> <img width="169" alt="December Temps" src="https://user-images.githubusercontent.com/80358062/119173474-eba94b00-ba2c-11eb-8d9d-cfd39f732afd.png">
+* June Summary Statistics
+<img width="135" alt="June Temps" src="https://user-images.githubusercontent.com/80358062/119173438-e2b87980-ba2c-11eb-9b2f-d3c87d5b7d06.png">
 
 * December Summary Statistics
 <img width="169" alt="December Temps" src="https://user-images.githubusercontent.com/80358062/119173474-eba94b00-ba2c-11eb-8d9d-cfd39f732afd.png">
